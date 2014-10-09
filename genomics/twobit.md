@@ -16,3 +16,13 @@ for(int i=0;i<names.length;i++) {
 }
 
 ```
+[footer]: # (Automatically generated footer. Don't edit below here.)
+
+---
+
+Navigation:
+[Home](../README.md)
+| [Book 4: The Genomics Module](README.md)
+| Chapter 6 : .2bit file format
+
+Prev: [Chapter 5 : karyotype (cytoband)](karyotype.md)

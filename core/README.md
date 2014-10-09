@@ -45,3 +45,13 @@ The content of this tutorial is available under the [CC-BY](http://creativecommo
 [view license](../license.md)
 
 
+
+[footer]: # (Automatically generated footer. Don't edit below here.)
+
+---
+
+Navigation:
+[Home](../README.md)
+| Book 1: The Core module
+
+Next: [Book 2: The Alignment module](../alignment/README.md)

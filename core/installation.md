@@ -49,3 +49,12 @@ If you run
 
  on your project, the BioJava dependencies will be automatically downloaded and installed for you.
 
+
+[footer]: # (Automatically generated footer. Don't edit below here.)
+
+---
+
+Navigation:
+[Home](../README.md)
+| [Book 1: The Core module](README.md)
+| Chapter 1 : Installation

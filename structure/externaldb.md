@@ -198,3 +198,16 @@ got 4 domains
 </table>
 
    
+
+[footer]: # (Automatically generated footer. Don't edit below here.)
+
+---
+
+Navigation:
+[Home](../README.md)
+| [Book 3: The Protein Structure modules](README.md)
+| Chapter 10 : External Databases
+
+Prev: [Chapter 9 : Biological Assemblies](bioassembly.md)
+
+Next: [Chapter 13 : Special Cases](special.md)
