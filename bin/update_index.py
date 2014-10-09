@@ -5,7 +5,7 @@ after adding new books or chapters in order to update the footer sections on
 each page with links to the next and previous chapters.
 
 The script works by recursively parsing "## Index" sections in files, starting
-with README.md. The footer is marked with an HTML comment, `automatically
+with README.md. The footer is marked with a comment, `automatically
 generated footer`.  Any text after this comment is destroyed by the script, so
 all edits should be made above that point.
 
@@ -15,7 +15,7 @@ import sys,os,re
 
 class TutorialIndex(object):
 
-    footermark = u"<!--automatically generated footer-->"
+    footermark = u"[footer]: # (Automatically generated footer. Don't edit below here.)"
 
     def __init__(self,link,chapter=None,title=None,parent=None):
         """Create a new TutorialIndex
